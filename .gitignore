@@ -2,7 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+/Downloads/
 /[Ll]ibrary/
+/HTML/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
